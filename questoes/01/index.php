@@ -18,7 +18,7 @@
 
         <?php
         $valor = 100;
-.
+        
         echo "O antecessor do valor " . $valor . " é " . ($valor - 1);
 
         ?>

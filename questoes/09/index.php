@@ -17,7 +17,15 @@
     <main>
 
     <!-- implementação da solução -->
-     
+        <?php
+        $nome = "Maria";
+        $idade = 25;
+
+        $diasDeVida = $idade * 365;
+
+        echo "Olá, $nome!\n";
+        echo "Com $idade anos, você já viveu aproximadamente $diasDeVida dias.";
+        ?>
     </main>
 </body>
 

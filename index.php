@@ -29,8 +29,7 @@
             <p>Leia atentamente cada questão e implemente a solução em PHP.</p>
         </div>
         <ul>
-            <li><a href="questoes/01/index.php">Questão 1:</a> Escreva um algoritmo para ler um valor e escrever na tela o seu antecessor.
-            </li>
+            <li><a href="questoes/01/index.php">Questão 1:</a> Escreva um algoritmo para ler um valor e escrever na tela o seu antecessor.</li>
             <li><a href="questoes/02/index.php">Questão 2:</a> Faça um Programa que converta metros para centímetros.</li>
             <li><a href="questoes/03/index.php">Questão 3:</a> Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.</li>
             <li><a href="questoes/04/index.php">Questão 4:</a> Faça um algoritmo que receba um valor inteiro e imprima na tela a sua tabuada.</li>
