@@ -18,9 +18,9 @@
 
     <!-- implementação da solução -->
         <?php
-        $num1 = 15;
-        $num2 = 42;
-        $num3 = 27;
+        $num1 = 22;
+        $num2 = 40;
+        $num3 = 19;
 
         if ($num1 >= $num2 && $num1 >= $num3) {
             $maior = $num1;

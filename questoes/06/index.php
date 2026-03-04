@@ -18,9 +18,9 @@
 
     <!-- implementação da solução -->
         <?php
-        $a = 15;
-        $b = 85;
-        $c = 42;
+        $a = 20;
+        $b = 70;
+        $c = 32;
 
         if ($a >= $b && $a >= $c) {
             if ($b >= $c) {

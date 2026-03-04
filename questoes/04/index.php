@@ -18,12 +18,11 @@
 
         <!-- implementação da solução -->
         <?php
-        $numero = 7; 
+        $numero = 8; 
         echo "Tabuada do $numero:\n";
-        echo "------------------\n";
         for ($i = 1; $i <= 10; $i++) {
             $resultado = $numero * $i;
-            echo "$numero x $i = $resultado\n";
+            echo " $numero x $i = $resultado\n";
         }
         ?>
 

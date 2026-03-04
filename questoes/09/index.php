@@ -18,8 +18,8 @@
 
     <!-- implementação da solução -->
         <?php
-        $nome = "Maria";
-        $idade = 25;
+        $nome = "Mario";
+        $idade = 78;
 
         $diasDeVida = $idade * 365;
 
