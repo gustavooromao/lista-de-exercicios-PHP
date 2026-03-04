@@ -1,6 +1,7 @@
 # Lista de exercícios em PHP
 
-![Lista de Exercícios em PHP](./assets/print-lista.png)
+![Lista de Exercícios em PHP](./assets/image.png)
+
 
 Este repositório contém uma lista de exercícios de PHP para praticar conceitos fundamentais da linguagem, como variáveis, estruturas de controle, funções e manipulação de dados.
 
