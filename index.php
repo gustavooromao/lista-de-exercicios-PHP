@@ -10,9 +10,9 @@
 
 <body>
     <?php
-    $aluno = "Nome do Aluno";
-    $disciplina = "Disciplina";
-    $professor = "Nome do Professor";
+    $aluno = "Gustavo Romão";
+    $disciplina = "Linguagens e Técnicas de Programação II";
+    $professor = "Marcos Raimundo";
     ?>
     <header>
         <img src="./assets/ifto-logo.png"
